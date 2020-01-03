@@ -1,0 +1,22 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <DB2CodeStyleSettings version="2">
+      <option name="ALIAS_CASE" value="0" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TYPE_CASE" value="0" />
+      <option name="IDENTIFIER_CASE" value="0" />
+      <option name="QUOTED_IDENTIFIER_CASE" value="0" />
+      <option name="SELECT_EL_WRAP" value="3" />
+      <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="4" />
+    </DB2CodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+      <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    </codeStyleSettings>
+    <codeStyleSettings language="yaml">
+      <indentOptions>
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

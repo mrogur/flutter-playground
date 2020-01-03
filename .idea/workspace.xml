@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13b09d01-9823-44a7-8200-7968240f02c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VnHs5YVIk3qsC7eI4mlhfW0gYk" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="device.file.explorer" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b09d01-9823-44a7-8200-7968240f02c4" name="Default Changelist" comment="" />
+      <created>1577882142915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577882142915</updated>
+      <workItem from="1577882162123" duration="392000" />
+      <workItem from="1577883212292" duration="310000" />
+      <workItem from="1577884065348" duration="284000" />
+      <workItem from="1577887741743" duration="2329000" />
+      <workItem from="1578050783867" duration="1263000" />
+      <workItem from="1578053543549" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="207" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1577889089315">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="399" y="207" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577889089315" />
+    <state width="603" height="274" key="GridCell.Tab.0.bottom" timestamp="1578053924407">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state width="1680" height="301" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577901233500" />
+    <state width="603" height="274" key="GridCell.Tab.0.bottom/0.23.1680.991@0.23.1680.991" timestamp="1578053924407" />
+    <state width="603" height="274" key="GridCell.Tab.0.center" timestamp="1578053924405">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state width="1680" height="301" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577901233499" />
+    <state width="603" height="274" key="GridCell.Tab.0.center/0.23.1680.991@0.23.1680.991" timestamp="1578053924405" />
+    <state width="603" height="274" key="GridCell.Tab.0.left" timestamp="1578053924404">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state width="1680" height="301" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577901233498" />
+    <state width="603" height="274" key="GridCell.Tab.0.left/0.23.1680.991@0.23.1680.991" timestamp="1578053924404" />
+    <state width="603" height="274" key="GridCell.Tab.0.right" timestamp="1578053924406">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state width="1680" height="301" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577901233500" />
+    <state width="603" height="274" key="GridCell.Tab.0.right/0.23.1680.991@0.23.1680.991" timestamp="1578053924406" />
+    <state x="452" y="226" key="NewModule_or_Project.wizard" timestamp="1577890770497">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="452" y="226" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1577890770497" />
+    <state x="341" y="157" key="SettingsEditor" timestamp="1578051957686">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="341" y="142" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1578051141573" />
+    <state x="341" y="157" key="SettingsEditor/0.23.1680.991@0.23.1680.991" timestamp="1578051957686" />
+    <state x="603" y="376" key="cloudConfig.SelfSettingsDialog" timestamp="1577888104836">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="603" y="376" key="cloudConfig.SelfSettingsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577888104836" />
+    <state x="100" y="117" width="1480" height="803" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1578052197638">
+      <screen x="0" y="23" width="1680" height="991" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578051636503" />
+    <state x="100" y="117" width="1480" height="803" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1680.991@0.23.1680.991" timestamp="1578052197638" />
+    <state x="505" y="242" width="670" height="717" key="search.everywhere.popup" timestamp="1578051562955">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="242" width="670" height="717" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1578051562955" />
+    <state x="505" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1680.991@0.23.1680.991" timestamp="1577887962364" />
+  </component>
+</project>
